@@ -1,5 +1,7 @@
 # TakeMeter — Fine-Tuning Project Report
 
+Link to Demo Video: https://streamyard.com/2yffbhisk76a
+
 This report summarizes the process of fine-tuning a text classifier to categorize social media posts and compares its performance against a zero-shot baseline using the Groq API.
 
 ## 1. Project Overview
