@@ -1,0 +1,1200 @@
+EDGE CASES LOG — 190 borderline decisions out of 1264 examples
+================================================================================
+
+[76] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: https://i.redd.it/v0xqf8u4jx911.jpg
+
+MOSCOW (Reuters) - France have shut out all the euphoria back home over their run to the World Cup final in order to play a perfect match against Croatia on Sunday, France captain Hugo Lloris said.
+
+The goalkeeper said the team were not being swept up by the wave
+------------------------------------------------------------
+
+[80] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: People of Reddit.
+
+The final game will be kicked off in Moscow tomorrow (15th July) . What's interesting though, is that the final will be played at 16:00 Moscow Time. Which means it will be played broad daylight, but how can they play a game of that magnitude during day right it is a party for the 
+------------------------------------------------------------
+
+[97] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I don't know who this Dr. Congo is - never heard of 'em - but apparently s/he was able to get his/er team into the World Cup.  Good for them, I say!  Gonna root for them (mostly because they're underdogs).
+
+But seriously, it's a very short list of counties that could use a WC victory more than DRC. 
+------------------------------------------------------------
+
+[104] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: bit of a rant but... 
+
+  
+Micheal Olise is an idiotic glory hunting traitor.   
+Guy was born in london, grew up here, speaks like an englishman, doesn't speak french, never lived in france and only has a claim to their team through his mother who isn't even considered fully french due to her being f
+------------------------------------------------------------
+
+[107] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: As a broadcaster he is more than adequate. He has a good voice and is good at relaying information and his takes are reasonable. Was he as good of a player as Zlatan or Henry? Of course not! That doesn’t mean he has no business being on a panel and announcing or commentating.
+
+Howard Cosell, Vin Scu
+------------------------------------------------------------
+
+[110] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: Despite being English, I have no problem admitting that we were lucky to have not conceded a penalty - it was a shocking and suspicious miss by the entire officiating team. 
+
+Are there any Argentinians out there also willing to admit that they’ve been lucky with the calls and Messi should’ve clearly
+------------------------------------------------------------
+
+[113] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: The common belief is that the award was an unctuous joke of an honor, and certainly from the standpoint of what Trump has actually contributed to world peace it was a joke. But from the standpoint of protecting the sanctity of the WC it was a genius move. By appeasing Trump’s monumental ego, it neut
+------------------------------------------------------------
+
+[143] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: I just want to say I don't want to hear it from anyone about the English game today, nor the English fans. Today I truly discovered how annoying and arrogant some Americans can get. Like, holy shit, they just can't shut up, they are so petty. Actually some of the worst fans this World Cup, genuine c
+------------------------------------------------------------
+
+[164] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I love, love, love that we see a lot less diving and fishing for penalty kicks in this world cup.
+
+However, I'm now incredible frustrated that it seems like almost random how and when a foul or yellow card is given. 
+
+Sometimes player is straight up underhooking and riding on the back of players in 
+------------------------------------------------------------
+
+[178] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: VAR has its doubters but if it is underused due to what seems to me the demands of American TV and FIFA itself this World Cup is corrupting the game itself.
+------------------------------------------------------------
+
+[201] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Same with refereeing. Plenty of decisions I don’t understand, many replays never shown. Overall not enough cards given and some teams trying to break the game and getting away with it.
+Otherwise lack of impact overall for a worldcup. It’s a huge event of course but as it was in winter and far away, 
+------------------------------------------------------------
+
+[209] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: How is it a “far away host country”?! Qatar is centrally located and is extremely convenient for most counties around the globe. It is highly accessible to European countries particularly - within a 4-6 hour flight from most European cities. Significantly more accessible than South Africa or Brazil 
+------------------------------------------------------------
+
+[210] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: It’s not underrating you it’s correctly rating you. Wouldn’t even expect Croatia to necessarily qualify for a tournament guaranteed or get out of the group stages. You’re in a good time now because you’re well seeded but that won’t last for long and without Modric you’re not even in the top 10 Europ
+------------------------------------------------------------
+
+[211] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: >Hakimi with Perisic and children of the Croatian players
+
+Maybe due to Morocco’s on-screen abbreviation, which referred to the country as “MAR” - Morocco known as Maroc in French.
+------------------------------------------------------------
+
+[213] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Oh because Portugal and England didn't dive? Everyone does it, at least Brazil and Arg don't go pointing fingers and get on with it
+------------------------------------------------------------
+
+[237] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: It makes sense man, if you're not a native speaker don't imply I don't know my own language just because my wording was marginally ambiguous if still quite obvious.
+------------------------------------------------------------
+
+[250] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I said there is nothing objective about being a dick. You are a dick because most people judge you as one. You're also a stupid dick, I guess.
+------------------------------------------------------------
+
+[252] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: 3 consecutive extra times surely will have a toll on Croatia's team. On the other hand, they will be highly motivated because it's a chance you only get once.
+
+Personally for me the best display of Croatia has been vs Argentina this world cup. If that performance is repeated, they could very well wi
+------------------------------------------------------------
+
+[256] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I guess you are right, he's obviously not real football fan if you could honestly say a team in the final are washed up or believe a team like Brazil in 82 weren't good because they didn't win.
+------------------------------------------------------------
+
+[275] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: > italy
+
+I didn't even realize until a few days ago that they didn't qualify. Crazy, but I'm kinda glad because I've always hated their style of play.
+------------------------------------------------------------
+
+[276] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Hi /u/STRBY_ and thanks for posting on worldcup. Unfortunately, your post has been removed because: 
+
+it is a meme or purely a joke submission.    
+
+If you have any questions, please do not hesitate to [message the moderators.](http://www.reddit.com/message/compose?to=%2Fr%2Fworldcup).
+
+^^this ^^is 
+------------------------------------------------------------
+
+[282] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Because the better team doesn't always win in sports... and it's not even a rare occurrence.  There are factors you can't measure on paper like determination, resolve, etc..  It's subjective but I honestly believe Croatia wants it more than France
+------------------------------------------------------------
+
+[290] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Totally agree! Of course I can't say it's the "best" WC because my team went home early, but I've loved all the games.
+------------------------------------------------------------
+
+[294] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Don't want to be critical, but what does it matter? If a country has more people, you cant automatically assume that they will be better players. The soccer culture, training and attitude towards the sport is the most important thing. If you have the funding, the passion and the backing of the count
+------------------------------------------------------------
+
+[328] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Weird thought that I've had is that you get 0 points if you don't score a goal.  So a 0-0 tie results in both teams getting 0 points.  Theoretically that would force teams to try to score.  It probably is a stupid idea, since it might have too many kick on consequences.
+------------------------------------------------------------
+
+[335] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I think England will perform really well against better teams that want to actually play the game, it was fun watching the Croatia match because they seemed in it to win it England was just the better team. It’s hard to play against defense only for 90 minutes
+------------------------------------------------------------
+
+[351] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: It absolutely matters in the difference between a yellow and red card. I don’t need to look that up as the rules are literally memorized in my mind lol. If a foul is considered reckless, which as I stated it was, it should be a yellow card without a doubt. The question of upgrading it to a red card 
+------------------------------------------------------------
+
+[372] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: half 
+
+imo u aren't really from somewhere if ur only a quarter from there and u have never lived there or speak the language 
+
+i mean ive got French dna but im not French because its only a small percentage and i don't speak french nor have i lived there
+------------------------------------------------------------
+
+[373] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Smaller nations are entitled to pursue the strategy that gives them the best chance of advancing. Suggesting their tactics are caused by corruption rather than competitive incentives is speculation at best and prejudice at worst.
+------------------------------------------------------------
+
+[380] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Because intent matters. Ppl can argue it all they want, but that is literally how we are taught to officiate. I refereed soccer for 12 years and played competitively in my youth for 10 years. Messi pulled back as he stepped down, you can see his reaction in any video. The Algerian player’s decision 
+------------------------------------------------------------
+
+[393] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: SHUT UP. 
+
+I am done with the crying already. I have to listen to this utter nonsense throughout the NBA play-offs, and I promised myself to never again go into that stupid sub to stop listening grown ass men crying about referees, and now the same nonsense here in the Reddit World Cup.
+
+I can't bel
+------------------------------------------------------------
+
+[396] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: There is no proof this is what happened.
+
+\-If- the referee spotted the foul and decided advantage should he had to show that as the rules state:
+
+\> The referee signals an advantage by extending one or both arms in front of theirbody at shoulder height.
+
+Given the lack of a signal from the referee 
+------------------------------------------------------------
+
+[401] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: I’m talking about the language not the country.
+
+I love how that’s obviously google Ai and that I looked up Cambridge dictionary and it literally made all of that up lmao. 
+
+Pasted directly from Cambridge dictionary: **If a referee calls a foul on a player, they say that the player has broken the ru
+------------------------------------------------------------
+
+[409] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: You didn’t watch the same game? I guessed you watched the ITV coverage which DIDNT EVEN MENTION the flying two aired lunge kick that bodied the Ghanaian striker and nothing of the ball 🤣
+
+And not even a VAR review? Are you telling me that the referee, his assistants and the VAR team all missed the g
+------------------------------------------------------------
+
+[415] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: You don't not call an obvious penalty because you \*thought\* there might be a foul in the buildup. That's trash  refereeing. You call the penalty and let VAR confirm a foul in the build up.
+------------------------------------------------------------
+
+[418] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: American football has eight on field referees. Why doesn't soccer have more so that things can be more clearly seen
+------------------------------------------------------------
+
+[424] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: > god awful strategy that we have a certain Jose Morihnio to thank for. 
+
+Are you 12...? *Catenaccio* was developed in Italy in the late '50s/early '60s (and probably somewhere else even earlier). Mourinho employed a version of it at times, like any other pragmatic manager who ever had to face techn
+------------------------------------------------------------
+
+[430] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: To be honest, and all due respect to all teams, I believe the one you mentioned and France's group are both the hardest groups. But that's because I'm counting 3 good teams in both (France, Norway, Senegal, Netherlands, Sweden and Japan are all solid to me).
+
+While it's kinda weird that England didn
+------------------------------------------------------------
+
+[435] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I grew up playing in the Portuguese soccer league and Portuguese clubs and had wonderful memories. I'm a  US fan because I've always wanted soccer to grow here. I cheered and followed the US, and did not care much about Portuguese league soccer because it's been Benfica, Sporting or Porto for a hund
+------------------------------------------------------------
+
+[438] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Forgot your disclaimer:
+
+(*Sports means US sports only. Sports played outside the US don't count, though F1 may count because we believe Colton Herta, which isn't a real name, will be good because he's American*)
+------------------------------------------------------------
+
+[442] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Said this somewhere else, but I played in a tournament in Spain growing up. We had a thunderstorm and we're super surprised the match wasn't stopped right away. The match was eventually stopped after we'd played for nearly 45 minutes with the storm going right over the top of us, but it wasn't for l
+------------------------------------------------------------
+
+[453] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: They are what I call “a sleeping giant”. 
+
+Some of the greatest teams can be eliminated in the group stage.
+
+Croatia has proven they can play very well.
+
+Sometimes great teams hit walls. 
+
+This may be the case here. But I see a Croatia that is warming up. While Panama is playing very excitedly and l
+------------------------------------------------------------
+
+[466] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Even if thats true (which I don't believe it was, as it looked like clean shoulder to shoulder for me), that wasn't what the referee blew the whistle for. And VAR could have stopped play and called claimed that the play was invalid due to that foul but chose not to.
+------------------------------------------------------------
+
+[470] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: The offsides that “occurred” first overrules the penalty. That being said, I don’t believe it was offsides so it should have been a PK and red flag. However, it was ruled offsides so that red flag no longer applies because the play would have been reset at the offsides.
+------------------------------------------------------------
+
+[478] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: I don’t mind if Panama wins, but I really want Croatia to win since they were robbed by England’s Harry Kane their last game since he demanded a 2nd penalty re-kick, for which never would have occurred to the ref had it not been for his crying. Harry Kane was telling the ref how to do his job so he 
+------------------------------------------------------------
+
+[503] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: YES!! England didn’t win!! 😁 Hahaha! I’m so happy! Why? Because karma. Harry Kane literally stole a goal last game by crying/tattling to the ref to demand a 2nd penalty because his first shot was successfully saved by the goalie whom Kane tried to fake out, then Kane hypocritically accusing him of d
+------------------------------------------------------------
+
+[504] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 35-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: And not even them making insane, save of the year worthy stops. We've just had a lot of smaller team keepers come up big again and again when needed to. It's been consistency over flashiness.
+------------------------------------------------------------
+
+[507] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: Nope they shouldn’t. We played like shit and they sat with 8 men at the back begging for a draw, they fouled every time they could and got minimal repercussions, they make the most boring matches by playing haramball and have a rapist in their team, as far as I’m concerned you support Ghana you’re a
+------------------------------------------------------------
+
+[512] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Analysis — emotional post with a stat. Decision: Reaction because stat is not load-bearing; expression of feeling is the point.
+TEXT: 3rd group games are played simultaneously since 1986... check "disgrace of gijon"
+------------------------------------------------------------
+
+[513] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: "Disgrace of Gijon“ 
+
+Google AI explains
+“
+ This simultaneous kickoff rule was directly prompted by a controversial match at the 1982 World Cup between West Germany and Austria.
+ 
+Because of the results from the previous day's matches, both West Germany and Austria knew that a 1-0 victory for West G
+------------------------------------------------------------
+
+[517] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 40-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: I'm going to quote the great Didier Drogba: this is a disgrace
+
+I don't understand how it is not a fault by Pickford?!?! Doesn't play the ball, block the attacker with his body, get rewarded with a free kick ?!
+------------------------------------------------------------
+
+[520] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: The guy on polish television almost came in his pants. Orgasmic squals, sentences like "Argentina has two coaches, two directors. One on the bench and the most important one on the pitch" or "Messi is such a genious and generous man, he never wants to taunt or ridicule any other player, he is just t
+------------------------------------------------------------
+
+[524] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: We’re comparing each team’s performance to each other.
+
+If team a beats team b 1-0 but loses to team c 2-0 while teams b and c beat team d, team c would know in advance team b beating them 1-0 would see both through no matter how many goals team a beats team d  so could disgrace of Gijon their way i
+------------------------------------------------------------
+
+[528] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 41-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Our administration certainly is a stain on the world and their cult following galvanizes the damage caused.
+
+But not all 360+ million are a disgrace. Just the shells of humans the admin has placed at the head of each area. Sadly.
+------------------------------------------------------------
+
+[534] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 47-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: You would think Algeria of ALL TEAMS wouldn't match fix a draw especially with Austria... But you never know...
+
+What be hilarious given that the Disgrace of Gijon with Germany and Austria screwing Algeria is that reason the final group games are played at the same time.
+------------------------------------------------------------
+
+[536] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: This is a reference to the ["Disgrace of Gijón"](https://en.wikipedia.org/wiki/Disgrace_of_Gij%C3%B3n), a match in the 1982 World Cup. Germany played Austria, and both teams had worked out that a 1-0 win for Germany would be guaranteed to get them both qualified from the group. Germany duly scored a
+------------------------------------------------------------
+
+[537] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: The "Disgrace of Gijón"
+
+>The most infamous historical example of this occurred during the 1982 World Cup. West Germany and Austria knew that a West Germany win by 1 or 2 goals would allow both of them to advance at the expense of Algeria. After West Germany scored in the 10th minute, both teams ess
+------------------------------------------------------------
+
+[538] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 43-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: It will still be a great game as both teams would much rather be 2nd than 3rd and get an easier opponent. Had that not been the case the current rumours for the upcoming Disgrace of Santa Clara would have been so true.
+------------------------------------------------------------
+
+[541] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 38-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Algeria vs Austria will be the last group stage match played.
+
+Algeria will know for absolute certain if a draw advances them in 3rd.
+
+Ironic for a potential Disgrace of Dijon style situation with these two particular teams.
+------------------------------------------------------------
+
+[542] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: They’re running out the clock. Guy wasn’t hurt. His buddy after him screaming that his head got cracked open and upon watching the replay you see that literally only the guy’s hair touched his head. Absolute disgrace. Also the play where #5 on Norway elbowed the opposing player in the neck and faked
+------------------------------------------------------------
+
+[550] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Yeah true, it wasn’t exciting or beautiful football but it was effective tactically because they kept us in their half of the pitch constantly trying to break down their defence, and then on the few occasions they got the ball back they would race towards our goal with our defence scrambling to get 
+------------------------------------------------------------
+
+[552] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: agree that England missed their biggest chances. However they didn’t seem to have the right tactics from the start for this type of game. A high pressure game required them to have better one touch and faking skills in order to get one up on the opposition, they hit a wall for 90 mins. lucky not to 
+------------------------------------------------------------
+
+[555] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Ghana defend like that because they know England can't break it down. It's not rocket science or extravagant tactics. Just solid, organised defending. And this is Ghana ranked 64th in the world for goodness sake. The lack of skill, pace and creativity has plagued England for decades and today was ex
+------------------------------------------------------------
+
+[560] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 43-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Ghanas tactics wouldn’t have worked if it weren’t for incredible defence, usually walling up  and giving crafty players a never ending supply of second chances leads to a goal but it was just a complete box out for a majority of the possessions
+------------------------------------------------------------
+
+[562] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: 0-0 outcome is deserved for both sides. 
+Ghana held off well and thats a result for them. 
+Englands tactic of trying to win a foul from every physical contact gets painful to watch, might work in EPL. 
+Kane shouldve polished off that sitter.
+But overall, i actually feel like with the way both teams 
+------------------------------------------------------------
+
+[565] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: oh definitely. it seems like lower-rated teams perfected their defense tactics (even if mostly nobody likes it) and the bigs might encounter the exact same issues in KO rounds
+
+reaching penalties might be the best strategy for the weaker ones, because they are much, much more balanced
+------------------------------------------------------------
+
+[569] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: 🤣 took me a while to understand your tactic and im still not sure if I fully understand but ill have a stab. 
+
+They do draw the team out by passing it backwards but most defensive set up teams dont take the bait so youre always out numbered up front. If you try to send the ball into the box with all
+------------------------------------------------------------
+
+[573] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Spain drawing Cabo Verde, imo. It's Cabo Verde's first ever World Cup and Spain's a legit powerhouse.
+
+Ghana's a team with lots of good players. And I might be biased because I love him and he managed us for a very long time, but imo Carlos Quieroz is one of the top defensive international managers.
+------------------------------------------------------------
+
+[595] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: 100% pen. No offside that I couldve seen.
+
+However, for me its a blatant foul on Eze that starts the attack. Shoulder to shoulder applies to 50-50s. It does not apply when one player has possession, touches the ball past a defender, then that defender body checks you after the ball is clear. 
+
+That 
+------------------------------------------------------------
+
+[653] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: Man I love this bruh honestly a World Cup argument for the ages 😂😂I was pressed at first cuz I got called an American but whatever I am an American bruh but the only other sport I watch is Canadian and is a true show of grit strength and determination. They break they teeth nose jaw and keep on tick
+------------------------------------------------------------
+
+[675] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Culombia has some nostalgia due to Valderrama playing back in the day but Doctor Congo has proved to be a strong contender. I already opened my second can in anticipation
+------------------------------------------------------------
+
+[677] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: We have a cricket team. Though much of it is formed of naturalized citizens who were already established pros. This is Ali’s rebuilding after our cricket organization was disbanded due to corruption. Not great but gotta start somewhere.
+------------------------------------------------------------
+
+[678] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: The whole point of hydration is due to heat (which was the complaint that led to it being installed). It doesn’t make sense to have it when it’s not hot.
+------------------------------------------------------------
+
+[679] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Not really. Going to 64 doesn’t add any more games and many of those teams who got in due to the 48 expansion are holding their own.
+------------------------------------------------------------
+
+[680] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: It was not dismissed due to lack of evidence. It was because of the plantiff's lawyer using the leaked documents where Ronaldo admitted raping her: [https://www.bbc.co.uk/news/world-us-canada-61772581](https://www.bbc.co.uk/news/world-us-canada-61772581)
+------------------------------------------------------------
+
+[681] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Yes but that Uzbekistan was different than the one that played today. Today they seemed scared right off the bat nervous to make any plays. While with Colombia they had more energy while playing almost like they scared themselves out of being good due to Portugal’s reputation or maybe losing the fir
+------------------------------------------------------------
+
+[683] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: You'd risk an outfield player to underperform due to fatigue by using that sub on a goalie who doesn't use as much energy as an outfielder
+------------------------------------------------------------
+
+[684] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: He paid off her the first time and evidence was thrown out due to illegal sourcing of evidence. 
+
+It was dismissed but if you read between the lines....
+------------------------------------------------------------
+
+[687] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: tbh I was in support of their win after the first half against England, but from there on, it is a constant disappointment, which is something due to the age of the squad, I think. Almost everyone is past their prime, but I will still support them to at least reach the round of 32. I would feel quit
+------------------------------------------------------------
+
+[688] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I'm a Ghanaian. Of course I support my national team. I'm not a Partey supporter.
+
+Let the court of law do their job. Due process will happen, and if he's found guilty, he would be locked up. 
+
+Obviously I knew that would be your retort because you have no point of importance to make.
+------------------------------------------------------------
+
+[689] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Why is that specific? We are due to face a 3rd placed team in the next round. I’d fully expect whoever that is to do that against us particularly after tonight’s performance
+------------------------------------------------------------
+
+[690] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Except for this world cup where due to the head to head rule being introduced, there will be a lot of colluding.
+
+Group B: Canada and Switzerland both go through with a draw.
+
+Group D: Australia and Paraguay have an extremely high probability of both going through on a draw. It is impossible for Aus
+------------------------------------------------------------
+
+[691] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: again you are literally proving my point, that Ronaldo has many more "fake fans" due to his following and size so he attracts more rage baiters/trolls. But to say Kane doesn't have "toxic fan boys" is just wrong, because he does, just not as many. its law of averages buddy. if kane has 500k toxic ou
+------------------------------------------------------------
+
+[692] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Thing is, England drawing this game isn’t the gotcha moment people seem to think it is. We’ve been there a thousand times, some teams have been there and ended up winning the whole tournament. Sometimes group matches can be absolutely dreadful to watch due to one team playing ultra defensively, but 
+------------------------------------------------------------
+
+[694] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I was rooting for England.  That was a bad no call.  Ghana should have had a PK.  In my opinion, that was a clear and obvious error.  
+
+Is the no-call due to corruption?  Probably not, but I never rule out anything with FIFA and international football.  I do think it's bias.  Definitely bias to not 
+------------------------------------------------------------
+
+[695] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: https://en.wikipedia.org/wiki/Boston_Tea_Party?wprov=sfla1
+
+One of the events leading up to the Revolutionary War.  Due to unfair taxation on multiple products including tea, a group of Bostonians called the Sons of Liberty raised several ships and dumped their tea into the harbor.
+------------------------------------------------------------
+
+[701] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: England played poorly but Ghana was playing anti-football in search of a draw. No other team going forwards will play this way because Panama will need a win so long as they don't shock Croatia tonight and knockouts are...well...knockouts. Hydration breaks kill so much momentum in these games and al
+------------------------------------------------------------
+
+[702] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: If Croatia wins vs Panama and Ghana while England loses to Panama England would get eliminated but its likely they tie/beat Panama and go as the third place team or three way tie at the top in which case the go as first place team due to goal diffy
+------------------------------------------------------------
+
+[705] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: In this world cup we have situations where there is nothing to play for for some teams, while others are actively encouraged to collude. The last time that happened was 1982. We haven't had a dead rubber game since then. This world cup will have several due to this rule change.
+
+An absurd case of he
+------------------------------------------------------------
+
+[707] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I agree on the pricing of attending, but would not go whatever price due to Drump. A man got to have some principles. 
+
+Also the water break is an americanisation of the sport. Just stop that already. 
+
+But I like the amount of games, abs watch a lot more than before. Fun to see some of the smaller 
+------------------------------------------------------------
+
+[711] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: The issue is due to much of the UK not having A/C to deal with the heat and humidity. Doesn’t mean the actual weather is worse than what Americans experience back home.
+------------------------------------------------------------
+
+[713] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: You don't sound reasonable, intelligent, or mature enough to handle this thread. Your obsession with the Algeria keeper is weird when Algeria is a very solid team (not amazing, but solid) and stronger than Congo or Uzbekistan (lmao). Algeria and Austria are both better than Congo and Uzbekistan. In 
+------------------------------------------------------------
+
+[714] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: This content is removed because it violates our Content Guidelines. 
+* Common reasons for removal are: bad post titles, single word content, duplicate content, shit posts, and any other content that is deemed to be of little value to the sub.
+* Remember to post in English only.
+* Search before posti
+------------------------------------------------------------
+
+[716] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I've never seen such an inconsequential play be talked about so much as that Messi foul. It's a yellow and a yellow on Messi means basically nothing. 
+
+There have also been multiple worse plays that haven't been given a yellow or red this world cup. If that foul is made by any other player not only 
+------------------------------------------------------------
+
+[718] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: The leader is not the people, thankfully.
+
+It's wild that One-Research said that the USA is hated because of power when the real reason is the rise of fascism.
+------------------------------------------------------------
+
+[720] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Honestly... I'll probably cheer for Portugal 😞. For me it comes down to the fact that my Dad is Portuguese and he's the reason I'm a fan of this sport, so most of my sentimental memories about soccer are watching Portugal and Sporting CP play with my Dad. As for the USA team, I developed my love for
+------------------------------------------------------------
+
+[722] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Nobody thinks we’re exceptional because we’re much more likely to get struck by lightning. It’s crazy to dismiss this map just because of the time period shown without even thinking that maybe it was chosen because it doesn’t particularly matter when you choose or how wide of a range you choose, lig
+------------------------------------------------------------
+
+[723] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Well that was a foolishly broad phrase which I’d say reasonably invokes our Olympic medal count. 
+
+Seems unnecessary to attack our sports culture, just because it’s different than yours. Winning the whole thing is an unreasonable dream but that’s what we’re going to hope for because that what we do.
+------------------------------------------------------------
+
+[729] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Oh for sure Ghana put up a great job at blocking shots, just it seemed England had absolutely no idea or ability to create opportunity or a desire to take longer shots (which these players have when they play club football, just not international for some reason). This England squad seems to need to
+------------------------------------------------------------
+
+[735] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: I think we can consider them a dangerous footballing nation because of their success in the last 10 years, but I think the reason that perception is declining is because of the aging generation.
+------------------------------------------------------------
+
+[747] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: VAR is constantly reviewed it's not only reviewed when the ref decides to review it. That's why sometimes play continues shortly after something might happen and it gets pulled back for seemingly no reason - because the VAR officials are letting the ref know the ball went out for a throw/corner or s
+------------------------------------------------------------
+
+[751] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: One can try to stop a trial because it's the most efficient way to get rid of allegations, may they be right or false. Most lawyers will recommend you try to stop it from the get go even if you have a mountain of evidence. There are financial reasons to try to stop the trial from happening. There ar
+------------------------------------------------------------
+
+[759] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Ughhh... I hate how you always have to tip-toe around your words when saying anything about Africa, because one slip up, even if it was meant with the best intentions, and guess what? You are a racist. 
+
+I once had a fellow student get mad at a professor for saying the N word whilst reading out a hi
+------------------------------------------------------------
+
+[771] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: On one hand you have people that really like football and really dont want to involve politics because it just pollutes everything, they try to differentiate/separate between team+ordinary staff and rest of the entourage, rooting for the success Iran as a historic nation and not as the Islamic Repub
+------------------------------------------------------------
+
+[784] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Why not Turkey? Because they're European? A better team historically and currently in Croatia are also bottom of their group. Did you forget them? Whats your  spin on that? Theyve only played one game against England?
+------------------------------------------------------------
+
+[807] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: You're right, that is true. I assumed I was discussing things with the same user that I was previously talking with. That's my bad.
+
+Still, I don't think you're correct though. I mean by that logic I could say that if every other country commited all of their best athletes to playing American Footba
+------------------------------------------------------------
+
+[808] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: I think he’s partially right like. Ghana had 3 points going in so getting a point against England or Croatia probably still gets them a Round of 32 spot the third place setup really makes those three game groups feel like a mini survival block. England dominated but were honestly shocking in actuall
+------------------------------------------------------------
+
+[816] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Yes if that happened America would obviously have a much better team. Nobody's arguing that if America developed better footballers then they'd have a better team, because that's obviously the case. It would make you a much more competitive footballing nation but I doubt it would make you dominant b
+------------------------------------------------------------
+
+[829] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: It’s kind of funny because the USWNT was far more dominant in MULTIPLE world cups than any man’s team has ever been but I’m being downvoted, most likely by dudes that think women’s world cups aren’t still world cups. And the title of the post explicitly said “any WC”
+------------------------------------------------------------
+
+[835] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: The 48-team format forces an asymmetric bracket because **32 teams must advance from 12 groups**. To make the numbers work, the round of 32 matches up group winners against third-place wildcards, alongside standard group runner-up pairings. This structure causes several specific schedule disparities
+------------------------------------------------------------
+
+[844] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Yeahhhh so #2/4 I agree. Would have loved to take a train to Seattle and watch the US play, but that would have been like a month's rent. Hydration breaks are a blatant cash grab too.
+
+\#1: No matter what sport or format you look at, teams are going to end up there that got lucky in qualifiers. I'd 
+------------------------------------------------------------
+
+[847] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: There's no credit to give that's the point, playing for a draw shows you think you're a bad (or at least the worse) team/player. Why reward that? They're never going to become good players or a team with that mindset. The WC is meant to be the best of the best, but the 48 team format has invited the
+------------------------------------------------------------
+
+[858] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: They are still at risk because the best 3rd finisher route only has 8 spots for the 12 teams. 3 points may still put you at risk but the benefit of being in the later groups, they will know the result of previous groups to calculate what is required to qualify.
+
+This format benefits the latter group
+------------------------------------------------------------
+
+[859] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Congratulations, you’ve identified the technology used to format the opinion. Now do the harder part and explain why the opinion is wrong.
+------------------------------------------------------------
+
+[873] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: No prob lol. And each team and each player look at the game differently - Brazil is gonna be all about style and the dance of the game, Japan and Germany and Netherlands are all machine like efficiency (especially this last Japan game against Tunisia - masterclass in positioning, control, and absolu
+------------------------------------------------------------
+
+[876] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 34-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: I just watched the England Ghana highlights and if that’s not a foul I don’t know what is lol. Ghana got robbed no question, but I don’t think it’s a conspiracy that’s just sports
+------------------------------------------------------------
+
+[879] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 36-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Ghana has been very good! Their performance today was anything other than great consistency and homework! I was at the edge of my seat! Ghana also got robbed a penalty, we should be upset about that
+------------------------------------------------------------
+
+[886] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 36-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Came flying in, no ball, and hits the player.  They didn't even stop play to look at it, shamefull.
+
+Ref also robbed Ghana of 2 free kicks just outside the box, and a yellow for Pickford.
+------------------------------------------------------------
+
+[904] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 31-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: 2020 was the covid year right?  I dont know who got robbed but to be honest i dont care . Its an award given by journalist. Not their peers or whatever.
+------------------------------------------------------------
+
+[906] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Analysis — emotional post with a stat. Decision: Reaction because stat is not load-bearing; expression of feeling is the point.
+TEXT: You don’t think lewandowski got robbed that year in 2020? Then Messi wins it the following year
+------------------------------------------------------------
+
+[907] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 33-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Genuinely just saying the other day that Uruguay fans have to got robbed upset and disappointed. I figured them for a dark horse candidate to go deep after their run through the Copa.
+------------------------------------------------------------
+
+[913] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 40-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: wtf… shouldn’t people say England is FIFA darling for no calling it?!? What’s Argentina have to do with this?    England paying the refs & fifa & they still bottle the group lol 😂 imagine if they finish 3rd in group
+------------------------------------------------------------
+
+[914] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Analysis — emotional post with a stat. Decision: Reaction because stat is not load-bearing; expression of feeling is the point.
+TEXT: That is a yellow card 100/100 times. wtf lol
+------------------------------------------------------------
+
+[919] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 48-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Wtf? Kahn is definitely not in contention. 
+
+Gerd Muller, Beckenbauer and Matthäus are the contenders 
+
+Being the focal point of a team with a great run and scoring goals against shite teams doesn’t qualify you to be „the greatest player“ 
+
+He’s never ever even been in that conversation
+------------------------------------------------------------
+
+[926] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 35-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: I mean what has England done in any of our lifetimes lol. Every year it’s “coming home!”  
+
+English talk shit on US 24/7 wtf you talking about lol. That’s why I’m laughing at you lot.
+------------------------------------------------------------
+
+[942] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 38-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: In my opinion people have repeatedly underestimated the African teams this tournament. Every time they play well against a European team, everyone is like: "OMG, is this European team bad?", instead of acknowledging the African team playing well.
+------------------------------------------------------------
+
+[951] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 33-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Omg have a sense of humor.   
+And if you know American culture, back in the 2000’s this is what Americans labeled soccer as. Check out Adam Corolla saying this during the Man Show.
+------------------------------------------------------------
+
+[958] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: at no point have I said the expanded tournament was a bad thing. what i find laughable is the OMG THIS RANDOM SHIT TEAM HAS ACCOMPLISHED A FEAT
+
+I mean the commentator did it just now in the Jordan-Algeria game:
+
+"It was such a big, big goal for them in only their SECOND world cup finals match!"
+------------------------------------------------------------
+
+[961] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: Omg you’ve made different comments and I am loving your passion!!! The World Cup is such a beautiful thing and I’m so glad people can see the best parts of our country for what they are; our PEOPLE. 
+
+Also while I wrote that comment ALGERIAAAAA wow what a sneaker of a header
+------------------------------------------------------------
+
+[969] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 31-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Wtf is your point he has scored 14 other goals including four goals in WC finals there is no hyperbole, he has just been fucking brilliant for France in World cups.
+------------------------------------------------------------
+
+[970] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 32-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Imagine if Ronaldo had gone injury free into the 2000s… his recovery & performance were absolutely legendary, but fuck man. Would’ve been  incredible to witness prime Ronaldo with that insanely stacked squad.
+------------------------------------------------------------
+
+[977] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Analysis — emotional post with a stat. Decision: Reaction because stat is not load-bearing; expression of feeling is the point.
+TEXT: Our golden generation is gone. We had insane achievements, final in 2018 and third place in 2022 was really insane and i am so proud of it but yeah we have to be realistic. We dont have such a strong team like we had
+------------------------------------------------------------
+
+[990] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 41-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: He honestly very well might be. He very well could have gotten three world cups in a row. 3 finals in a row would be insane in today's age I feel like. Plus in another cup he'll be the leading scorer
+------------------------------------------------------------
+
+[1001] Hot Take → Hot Take  (clear)
+NOTE: Long emotional post with no argument → Hot Take. Reaction ruled out because it exceeds 50 words without a primary event reaction.
+TEXT: The fans were pissed too. Both the German and Austrian fans were whistling furiously. The announcers also didn’t hide their disgust. 
+
+Germany has always been my heritage team, and there was still no way for me to defend what they did; it was really shitty. 
+
+That’s why a lot of Algeria fans still h
+------------------------------------------------------------
+
+[1016] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: While the new format is just worse i do like the h2h change. It does lead to a less entertaining final day with more teams with nothing to play for but i think its a much more fair way to determine qualification. GD works great in a league when you are evaluating a teams performance long term but a 
+------------------------------------------------------------
+
+[1017] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: And again, that is literally impossible in this format. Seriously. If you lose two games 1-0 and win one 7-0 to end up on 3 pts level with someone else, you must have beaten a team that the other side lost to. There’s no other way to get there. Even more than that, you must have beaten a side with m
+------------------------------------------------------------
+
+[1018] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Yeah, it’s true MotM just looks better to me written down. 
+
+Maybe familiarity, but football being so corporate and money driven, even this World Cup doesn’t feel the same as 8 years ago. 
+
+Golden boot will be a joke because of the expanded format, it’s whoever can get the most in against the smalle
+------------------------------------------------------------
+
+[1027] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I think it's better that Kazakhstan stay in UEFA since they have better competition and could qualify due to the expanded format. They've also had some pretty decent results against some top european sides, like drawing Belgoum 1-1, and drawing Norway 0-0
+------------------------------------------------------------
+
+[1041] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Fucking low blocks - well drilled and impressive from Ghana though. I don't understand why you'd play Gordon against that. Or Spence. You want them against teams that are going to press into you so that they have space to run.
+------------------------------------------------------------
+
+[1055] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: "Sneaking dissing" 
+When was the last time, if ever Ronaldo dissed Messi? Go on, I'll wait. 
+
+Btw, they're being paid that because of the ROI they bring, and that has nothing to do with press 
+
+Also, entertainment=\= press  they're far from being mutually exclusive.
+------------------------------------------------------------
+
+[1064] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: >respectfully this is such a loser response lol, the reporter was not even trying to stir the pot
+
+Respectfully, you can't speak with absolute certitude that he wasn't trying to stir the pot because Ronaldo broke him off when he started with the goals between the strikers.
+
+It's not unreasonable to 
+------------------------------------------------------------
+
+[1067] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Are you implying he's only ever faced the press when he won? Because it's either that and it's a delusional argument at best, or a blatant lie at worst. Your pick
+------------------------------------------------------------
+
+[1116] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 31-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: 23% possession and one total shot in 77 minutes of play is disgusting. You expect that from fucking Curacao or something not a country that makes every World Cup like Ghana.
+------------------------------------------------------------
+
+[1132] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Ecuador dominated their qualifiers while starting -2 points back because of some passport issue. I thought they’d genuinely make the rd of 16 with their back line and caicedo
+------------------------------------------------------------
+
+[1133] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: EPL watchers and Ingerland fans are deluded. Their league is shite, Pep came and dominated the shit out of that league with minimum technicalities introduced. That's why they haven't sniffed a WC in over half a century and their teams usually suck at UCL. Stay deluded and keep comparing Rashy and Go
+------------------------------------------------------------
+
+[1135] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I can assure you that those good teams aren't as ferocious as you think. We dominated France in the last WC and lost due to a missed penalty. We've improved a lot since then.
+------------------------------------------------------------
+
+[1145] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Damm i forgot how bad Tuchel is at press conference / communication in comparison to Kompany. Was really crazy how much problemes he caused for himself by simply not phrasing stuff better.
+------------------------------------------------------------
+
+[1156] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Even if he's not the problem, they will make sure he's the problem. Why? It gets people talking, it gets the press talking especially in this cancel culture era. Mentality of people is they like to cancel others.
+
+Pretty sure if he's not playing and on the bench and the team still loses, it will be 
+------------------------------------------------------------
+
+[1160] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: He won because 80k people choose not to vote... So technically None of the Above won the Popular vote, but looking at recent elections, it seems the sleeping giant of the silent majority is waking the fuck up
+
+I have more hope for this country then I did this time a year ago. 
+
+I'm just hoping we ge
+------------------------------------------------------------
+
+[1184] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Only 8 team have won the World Cup and most of them team won the World Cup before any African or Asian team  started getting into the World Cup and 1 of the 8 team was France who didn’t win shit unit Africans join there team there dominance now is because of the Africans take them out the French squ
+------------------------------------------------------------
+
+[1185] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I prefer Ronaldo because domestically he did it in 3 different leagues as compared to Messi's 2 (plus Ronaldo at Juve was better than Messi at PSG). He was also without a doubt better in UCL. Messi was more consistent in the 1 league he was amazing at though with the laliga dominance.  
+Internationa
+------------------------------------------------------------
+
+[1186] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: What physical advantages are these? 
+
+Africans don’t dominate all sports. The 2 best football players ever are white, Messi and Ronaldo.
+
+Strength sports like strongman is dominated by europeans. 
+
+Hockey is dominated by white players, there are barely any black players at all in fact. 
+
+The best he
+------------------------------------------------------------
+
+[1187] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I've been predicting Germany to finish 3rd in their group and somehow they still got first place. They weren't even better than Cote D'Ivoire. Yet they still won.
+
+I'm all for African teams doing well. Morocco and Senegal have very good teams in particular. Morocco even has a player who's the best i
+------------------------------------------------------------
+
+[1188] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Yes, I saw Portugal's first match, and it's starting to become a real problem. Actually, I'm clarifying because I don't want to offend anyone: the football geniuses, like Zidane or Cruyff, dominated because they read the game faster, they always made the right decision. Cristiano Ronaldo dominated t
+------------------------------------------------------------
+
+[1190] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: If India qualified for the World Cup, would it become a major national event and the main topic of attention across the country? As far as I know, football isn’t very popular in India because cricket is overwhelmingly dominant.
+------------------------------------------------------------
+
+[1191] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: US solid mid - high unlikely to be competitive in the later knockout rounds, looking really good and composed against other mid tier teams and absolutely dominating lower tier teams.
+
+They’re good - not great.
+
+What they should be terrified right now of though is Sweden, and not because of playing t
+------------------------------------------------------------
+
+[1194] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Sorry but not reading valid arguments because you don’t like reels? That is the most popular form of media content on the planet and provides a viewpoint into ordinary peoples viewpoints. If you would find interviews from major news companies to be more credible I would question your intelligence/bi
+------------------------------------------------------------
+
+[1195] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Stopped at your use of insta reels as an argument. Americans are friendly, it’s the world cup, it’s not normal life and these people are on vacation. And not all reels are positive lol your algorithm is feeding you what you want to see. 
+
+Oh wait, did catch your absolutely ludicrous claim that the U
+------------------------------------------------------------
+
+[1201] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Because not all players are Messi who can dribble through defenders.
+
+If the attacking team has numerical advantage, then they should definitely keep forward momentum before defending team catches up.
+
+But if it's an attacker against 2-3, you have more chances of scoring by waiting to link up with y
+------------------------------------------------------------
+
+[1202] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Tbf for England. They aren’t really gonna run into any teams that play like this later in the tournament. It’s gonna be an open game if they make it to the quarters or deeper.  Tuchel excels at those matches and I imagine his England will too. Which is why Southgate never won anything, he lost those
+------------------------------------------------------------
+
+[1203] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Did you watch the game? Because, differently from the Congo's game, we actually played a LOT more through the middle. Even Félix (which is obviously much more of an inside forward) and Neto were playing inwards instead of crossing.
+
+  
+Note that I'm not defending Ronaldo at all. Your take is just co
+------------------------------------------------------------
+
+[1204] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Player A is on a break away counter attack with one defender chasing.
+
+Defender brings him down in the box to stop the shot going off.
+
+We don't know if that shot would go in or not. 
+
+So a penalty is called. To give the attacking team an opportunity to score given the advantage taken away from them
+------------------------------------------------------------
+
+[1206] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: You got a fair point. They just need a way better plan than whatever they had and did. I myself dont argue for Ronaldo playing for 90 minutes, because what would happened again is he would not be juking the defenders with constant movements enough if he played the full 90 minutes.
+
+I believe 45 minu
+------------------------------------------------------------
+
+[1207] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I don't know if it's that they necessarily can't defend. But they've changed the rules to harshly penalize defenses because fans want to see goals scored. But some of those changes needed to be made because some of the fouls that were done back in the day were absolutely brutal and unnecessary. I al
+------------------------------------------------------------
+
+[1212] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: There isn’t really a debate anymore. It’s obviously Messi. People like to say Ronaldo because he was the better out and out goal scorer in his prime but in terms of offensive output (goals, assists, key passes) there’s no doubt that Messi is the GOAT. 
+
+One thing I don’t like about these conversatio
+------------------------------------------------------------
+
+[1213] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Ok. Yeah I have no idea. I just really dislike this cult around the attackers. Sure they play great, but they would be nothing without their team. Ronaldo is like the example for that I think. He is such an asshole and yet there are so many fans. Also I dislike watching the favoured. Like yeah wow y
+------------------------------------------------------------
+
+[1214] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: A few have changed in a big ways that I can come up with right away
+
+1) 20+ years ago, the attacking defensive wingers was not a thing or as common. Someone that can drive the ball up a bit and add to the attack if they need to and run back. 
+
+2) fut has gone through some tactical changes of play, 2
+------------------------------------------------------------
+
+[1215] Hot Take → Hot Take  (borderline)
+NOTE: BORDERLINE Hot Take/Analysis — has causal language but no specific evidence. Decision: Hot Take because 'if you remove the causal phrase, the claim still stands.'
+TEXT: Not sure what your point is.
+
+They are actively at war with each other. US doesn't grant visas for IRGC agents.
+
+The Iranian players have the visa but the Iran team has chosen to stay in Mexico because the IRGC agents (protective details) are allowed there. 
+
+The players are allowed to sleep in US w
+------------------------------------------------------------
+
+[1217] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: >most complete attacking player ever
+
+Nope, let me explain why.
+
+Attacking includes playmaking, dribbling, creating space for your teammates, being in the right position to score goals, and finishing. (Feel free to add any other attacking abilities.)
+
+Now tell me, which of these did Ronaldo truly ex
+------------------------------------------------------------
+
+[1218] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: It works because you have 11 men defending the ball against a couple of attackers. It's not very fun or interesting to watch, nor is it good football. This is coming from someone whose team won using this tactic, but at least they also scored 2 goals.
+------------------------------------------------------------
+
+[1221] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Not only the momentum, having tactical sessions in the middle of the game or being able to delay subs or spend ,ore energies because you can then recover makes it a different game altogether. That said, this will be the new norm and I kind of suspect countries with monsoons or in Northern Europe won
+------------------------------------------------------------
+
+[1222] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: And the best general of all time, Alexander, would be crushed by the Italian part-time soldiers today.
+
+You can only ever compare players against their own time. We can't know how good Pele, Kosics or Gerd Muller would be today. Maybe they would be far better than Mbappe, benefiting from modern tact
+------------------------------------------------------------
+
+[1223] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Think it this way... Modern day Brazil is the shadow of what it used to be. The Jogo Bonito was destroyed because the Brazilian players were asked to adopt the structure of modern day European football, and Brazil since has been trying to recover the spark they used to have. 
+
+  
+And even knowing al
+------------------------------------------------------------
+
+[1224] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: dude is more english than french and u can't convince me otherwise 
+
+tell me what is incorrect in what i said other than ur opnion of players just picking whatever they like 
+
+how can a small percentage of his dna being french that no one would even know about had he not picked them trump being born
+------------------------------------------------------------
+
+[1225] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: A lot of the Ronaldo hate mostly comes from the long‑running Ronaldo vs. Messi rivalry that’s dominated football debates for years.  Fans have basically been forced into choosing a side and that spills over into how people judge both players.  With Ronaldo, some people don’t like his style because i
+------------------------------------------------------------
+
+[1227] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Because you only watch world cups. For each world cup there's 4 domestic leagues, 4 domestic cups and 4 domestic leagues and there's stats, a lot of stats.
+
+Oh and there's the Balon d'Or, the most prestigious solo trophy on football and these 2 dominated it between 2008-23, with Messi winning 8 and 
+------------------------------------------------------------
+
+[1228] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: I think that the 'never close' argument speaks more about their perceived footballing abilities than their accomplishments. There was a time in which they would alternate each season in terms of the number of goals scored, and the number and type of championships won. In that sense, they were pretty
+------------------------------------------------------------
+
+[1229] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Switzerland's midfield is gonna be key here. Bosnia's got some decent attacking players but their defense can be shaky, and if Switzerland can control the tempo early they should be able to dictate the match. Shaqiri's one to watch like someone said, but I'm also curious how much Embolo gets involve
+------------------------------------------------------------
+
+[1230] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Because it genuinely seems like a large percentage of people are not actually capable of having a rationale conversation about Portugal. Because so many folks are fixated on hate watching Ronaldo. His link up play was fine. And he had some good combination play in and around the box. All the focus o
+------------------------------------------------------------
+
+[1231] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: It seems like a large percentage of people are not actually capable of having a rationale conversation about Portugal. Because so many folks are fixated on hate watching Ronaldo. His link up play was fine today. And he had some good combination play in and around the box. All the focus on Ronaldo is
+------------------------------------------------------------
+
+[1236] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Small countries don't have the expectation to win the world cup. and they shouldn't because that would just be setting themselves up for failure. They are just happy to get as far as they can and any win or even a draw against a big country is a victory for them that they can be proud of. 
+
+And what
+------------------------------------------------------------
+
+[1238] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: If there's a foul in the attacking phase of play and VAR decides not to give the penalty because of it, play has to resume with a free kick at the spot of the "foul in the attacking phase".
+
+That's what I mean by that. 
+
+(you really should've stopped after "i have no idea", by the way. As you just p
+------------------------------------------------------------
+
+[1239] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Blimey. We have just beaten a good Croatia side convincingly. You say against Ghana as if its an embarrassment- they setup to defend with 10 men behind the wall. Doesn't matter who does that, it will be tough to beat. Spain drew to Cape Verde and Portugal to DR Congo. Same thing. We will still proba
+------------------------------------------------------------
+
+[1241] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Let’s say he did lose control of the ball. Which is absurd because he only lost control after he was fouled. 
+
+Even at that, how does “losing control” whatever the definition of that is, allow a player to take you out? What am I missing here?
+------------------------------------------------------------
+
+[1243] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: Soldiers do actually overheat and suffer from heat exhaustion constantly but they wear heavy gear because surviving shrapnel is more important than athletic agility. Football is entirely different. Adding rigid protection to a shoe isn't a weight or heat issue, it completely ruins ball control. Play
+------------------------------------------------------------
+
+[1244] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: If they can’t bring their support staff because of visa issues, what would you call that? Who controls visas? The government. No other team is having visa issues for their support staff. No other team is forced to leave immediately after their games. You’re getting mad about headlines? How about bei
+------------------------------------------------------------
+
+[1245] Analysis → Analysis  (borderline)
+NOTE: BORDERLINE Analysis/Hot Take — conversational reasoning without hard stats. Causal: yes. Evaluation language: yes. Decision: Analysis because causal chain + performance eval are load-bearing.
+TEXT: You claim goal difference is better because it takes into account all three matches. But in your Scotland vs. Haiti scenario, you are doing the exact opposite: you are hyper-focusing on a result against a third party (Brazil) to completely invalidate the direct result between the two teams involved.
+------------------------------------------------------------
+
+[1254] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 41-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: Honestly no real chances created. Weak finishing. Kane had easily the best chance from like 6 yards out and skied it. Squad selection was odd as well. Ghana had 3 points completely get why they didn't open up but still shocking.
+------------------------------------------------------------
+
+[1256] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 49-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: It’s obviously a disappointing show for England and there was shocking lack of urgency. Ghana had a solid defence all the same though and sometimes that happens in football - you get shutdown. We’ll see what happens with the home side - I don’t predict fireworks on the horizon.
+------------------------------------------------------------
+
+[1261] Reaction → Reaction  (borderline)
+NOTE: BORDERLINE Reaction/Hot Take — emotional language in a 43-word post. Decision: Reaction because emotional expression is the primary purpose.
+TEXT: The ref is absolutely shocking but he's been shite for both teams, I'm not saying he's been good 😂 in saying that of course most of the calls will be in England's favour, it's going to happen when Ghana are playing 99% defence
+------------------------------------------------------------
+
